@@ -7,8 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 ## 👩🏾‍💻 About Me
-I'm **Oumou N'Daou**, a Master 2 student in Political Ideas in the Digital Age 
-(PIDA) at CY Cergy Paris Université, currently on a semester exchange at the 
+I'm **Oumou N'Daou**, a Master 2 student  at CY Cergy Paris Université, currently on a semester exchange at the 
 **Faculty of Information Science and Technology (FTSM), Universiti Kebangsaan 
 Malaysia (UKM)** in Bangi, Malaysia.
 
@@ -115,7 +114,7 @@ CVSS scores into financial risk for CISOs and CFOs *(in development)*
 
 ## 🎓 Academic Context
 - **Student:** N'Daou Oumou | ID: A222664
-- **Programme:** Master 2 PIDA — CY Cergy Paris Université
+- **Programme:** Master 2  — CY Cergy Paris Université
 - **Exchange:** Faculty of Information Science and Technology, 
 Universiti Kebangsaan Malaysia (UKM)
 - **Course:** Data Mining | 2026
